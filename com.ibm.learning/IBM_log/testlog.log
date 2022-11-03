@@ -1,0 +1,100 @@
+2022-10-27 10:39:02,526 - IBM_Login_Module -INFO - chrome browser launched..
+2022-10-27 10:39:11,306 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 10:39:13,451 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-27 10:39:13,657 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-10-27 10:39:13,921 - IBM_Login_Module -INFO - Clear text from password field
+2022-10-27 10:39:14,055 - IBM_Login_Module -INFO - enter username: admin
+2022-10-27 10:39:14,189 - IBM_Login_Module -INFO - click on Login Button
+2022-10-27 10:39:18,316 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-10-27 10:39:18,334 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-27 10:39:25,748 - IBM_Login_Module -INFO - closing application: 
+2022-10-27 10:48:33,871 - IBM_Login_Module -INFO - chrome browser launched..
+2022-10-27 10:48:38,186 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 10:48:40,460 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-27 10:48:40,709 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-10-27 10:48:40,895 - IBM_Login_Module -INFO - Clear text from password field
+2022-10-27 10:48:41,057 - IBM_Login_Module -INFO - enter username: admin
+2022-10-27 10:48:41,227 - IBM_Login_Module -INFO - click on Login Button
+2022-10-27 10:48:45,891 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-10-27 10:48:45,901 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-27 10:48:52,674 - IBM_Login_Module -INFO - closing application: 
+2022-10-27 10:53:21,140 - IBM_Login_Module -INFO - chrome browser launched..
+2022-10-27 10:53:25,457 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 10:53:27,688 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-27 10:53:27,908 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-10-27 10:53:28,120 - IBM_Login_Module -INFO - Clear text from password field
+2022-10-27 10:53:28,280 - IBM_Login_Module -INFO - enter username: admin
+2022-10-27 10:53:28,402 - IBM_Login_Module -INFO - click on Login Button
+2022-10-27 10:53:33,800 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-10-27 10:53:33,818 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-27 10:53:40,582 - IBM_Login_Module -INFO - closing application: 
+2022-10-27 22:08:58,411 - IBM_Login_Module -INFO - chrome browser launched..
+2022-10-27 22:09:04,990 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-10-27 22:09:16,911 - IBM_Login_Module -INFO - Clear text from userName field
+2022-10-27 22:09:17,007 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-10-27 22:09:17,123 - IBM_Login_Module -INFO - Clear text from password field
+2022-10-27 22:09:17,218 - IBM_Login_Module -INFO - enter username: admin
+2022-10-27 22:09:17,306 - IBM_Login_Module -INFO - click on Login Button
+2022-10-27 22:09:45,511 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-10-27 22:09:45,524 - IBM_Login_Module -INFO - Click on logout button.
+2022-10-27 22:09:52,037 - IBM_Login_Module -INFO - closing application: 
+2022-11-02 09:06:45,907 - IBM_Login_Module -INFO - chrome browser launched..
+2022-11-02 09:06:50,461 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 09:06:52,138 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-02 09:06:52,190 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-02 09:06:52,247 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-02 09:06:52,287 - IBM_Login_Module -INFO - enter username: admin
+2022-11-02 09:06:52,327 - IBM_Login_Module -INFO - click on Login Button
+2022-11-02 09:06:56,121 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-11-02 09:06:56,134 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-02 09:07:18,523 - IBM_Login_Module -INFO - closing application: 
+2022-11-02 23:19:51,436 - IBM_Login_Module -INFO - chrome browser launched..
+2022-11-02 23:19:53,025 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 23:19:54,410 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-02 23:19:54,510 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-02 23:19:54,591 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-02 23:19:54,637 - IBM_Login_Module -INFO - enter username: admin
+2022-11-02 23:19:54,682 - IBM_Login_Module -INFO - click on Login Button
+2022-11-02 23:19:59,507 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-11-02 23:19:59,515 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-02 23:20:22,131 - IBM_Login_Module -INFO - closing application: 
+2022-11-02 23:24:32,183 - IBM_Login_Module -INFO - chrome browser launched..
+2022-11-02 23:24:33,727 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 23:24:35,718 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-02 23:24:35,787 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-02 23:24:35,866 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-02 23:24:35,941 - IBM_Login_Module -INFO - enter username: admin
+2022-11-02 23:24:36,016 - IBM_Login_Module -INFO - click on Login Button
+2022-11-02 23:24:40,305 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-11-02 23:24:40,312 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-02 23:25:03,614 - IBM_Login_Module -INFO - closing application: 
+2022-11-02 23:26:12,580 - IBM_Login_Module -INFO - chrome browser launched..
+2022-11-02 23:26:14,046 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 23:26:15,586 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-02 23:26:15,653 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-02 23:26:15,731 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-02 23:26:15,778 - IBM_Login_Module -INFO - enter username: admin
+2022-11-02 23:26:15,827 - IBM_Login_Module -INFO - click on Login Button
+2022-11-02 23:26:20,776 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-11-02 23:26:20,784 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-02 23:26:43,300 - IBM_Login_Module -INFO - closing application: 
+2022-11-02 23:29:27,420 - IBM_Login_Module -INFO - chrome browser launched..
+2022-11-02 23:29:30,225 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 23:29:31,769 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-02 23:29:31,837 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-02 23:29:31,914 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-02 23:29:31,981 - IBM_Login_Module -INFO - enter username: admin
+2022-11-02 23:29:32,044 - IBM_Login_Module -INFO - click on Login Button
+2022-11-02 23:29:36,779 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-11-02 23:29:36,794 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-02 23:29:59,823 - IBM_Login_Module -INFO - closing application: 
+2022-11-02 23:30:10,597 - IBM_Login_Module -INFO - chrome browser launched..
+2022-11-02 23:30:12,792 - IBM_Login_Module -INFO - launching application: https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-11-02 23:30:14,449 - IBM_Login_Module -INFO - Clear text from userName field
+2022-11-02 23:30:14,506 - IBM_Login_Module -INFO - enter username: admin@yourstore.com
+2022-11-02 23:30:14,587 - IBM_Login_Module -INFO - Clear text from password field
+2022-11-02 23:30:14,648 - IBM_Login_Module -INFO - enter username: admin
+2022-11-02 23:30:14,720 - IBM_Login_Module -INFO - click on Login Button
+2022-11-02 23:30:17,479 - IBM_Login_Module -INFO - Validation of Dahboard after successful login
+2022-11-02 23:30:17,489 - IBM_Login_Module -INFO - Click on logout button.
+2022-11-02 23:30:40,078 - IBM_Login_Module -INFO - closing application: 
